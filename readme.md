@@ -17,4 +17,4 @@ This is a landing page for a restaurant. It is a simple page that contains the a
 
 ## Live Demo
 
-[live](https://zeeshank261.github.io/PW-Assignment_01/)
+[Live Demo](https://zeeshank261.github.io/PW-Assignment_01/)
