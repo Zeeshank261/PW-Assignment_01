@@ -22,5 +22,5 @@ This is a landing page for a restaurant. It is a simple page that contains the a
 
 ## Live Demo
 
-[Live Demo Link](https://divyam-kumar-pandey.github.io/PWSkills-Assignment-1/)
+[Live Demo Link](https://github.com/Zeeshank261/PW-Assignment_01/blob/4aec75732479969f08a11682c2e259c994c07e2c/Output/Screenshot%202024-07-24%20154301.png)
 
