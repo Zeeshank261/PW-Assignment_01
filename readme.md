@@ -5,7 +5,6 @@ This is a landing page for a restaurant. It is a simple page that contains the a
 
 ## Features
 
-> Note: All the link are mock links and do not lead to any page.
 
 - A brief description of the restaurant
 - A list of menu items
