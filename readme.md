@@ -1,3 +1,6 @@
+# Landing Page for a Restaurant
+
+![screenshot](https://github.com/Zeeshank261/PW-Assignment_01/blob/main/Output/Screenshot%202024-07-24%20223456.png)
 ## Description
 This is a landing page for a restaurant. It is a simple page that contains the a brief description of the restaurant, a list of menu items, map of the location, a contact form and a order button to order food online.
 
